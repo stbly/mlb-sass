@@ -24,6 +24,10 @@ A simple sass library for including any of the 30 Major League Baseball team's c
 	// apply colors with <div class='team-name color-1'>
   ```
 
+## Acknowledgements
+
+All of the colors used in mlb-sass are sourced from [Team Color Codes](http://teamcolorcodes.com/mlb-color-codes/). Thanks for keeping track of things over there, guys!
+
 ## About
 
-mlb-sass is maintained by Conor Britain. Please feel free to contribute to the repository, update team colors, and whatever else that will improve the project!
+mlb-sass is maintained by [Conor Britain](www.stbly.com). Please feel free to contribute to the repository, update team colors, and whatever else that will improve the project!
