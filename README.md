@@ -30,4 +30,4 @@ All of the colors used in mlb-sass are sourced from [Team Color Codes](http://te
 
 ## About
 
-mlb-sass is maintained by [Conor Britain](www.stbly.com). Please feel free to contribute to the repository, update team colors, and whatever else that will improve the project!
+mlb-sass is maintained by [Conor Britain](http://www.stbly.com). Please feel free to contribute to the repository, update team colors, and whatever else that will improve the project!
