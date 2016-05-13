@@ -1,0 +1,184 @@
+{
+    "teams": [
+        {
+        	"full_name": "Arizona Diamondbacks",
+        	"city": "arizona",
+            "name": "diamondbacks",
+            "colors": ["A71930","DBCEAC","09ADAD","000000","FFFFFF"]
+        },
+        {
+        	"full_name": "Atlanta Braves",
+        	"city": "atlanta",
+            "name": "braves",
+            "colors": ["01487E","D60D39","FFFFFF"]
+        },
+        {
+        	"full_name": "Baltimore Orioles",
+        	"city": "baltimore",
+            "name": "orioles",
+            "colors": ["F4632A", "000000", "FFFFFF"]
+        },
+        {
+        	"full_name": "Boston Red Sox",
+        	"city": "boston",
+            "name": "red-sox",
+            "colors": ["C60C30", "002244", "FFFFFF"]
+        },
+        {
+        	"full_name": "Chicago Cubs",
+        	"city": "chicago",
+            "name": "cubs",
+            "colors": ["0E3386", "D12325", "FFFFFF"]
+        },
+        {
+        	"full_name": "Chicago White Sox",
+        	"city": "chicago",
+            "name": "white-sox",
+            "colors": ["000000", "FFFFFF", "DCDDDF"]
+        },
+        {
+        	"full_name": "Cincinnati Reds",
+        	"city": "cincinnati",
+            "name": "reds",
+            "colors": ["C6011F", "FFFFFF", "000000"]
+        },
+        {
+        	"full_name": "Cleveland Indians",
+        	"city": "cleveland",
+            "name": "indians",
+            "colors": ["ED174C", "002B5C", "FFFFFF"]
+        },
+        {
+        	"full_name": "Colorado Rockies",
+        	"city": "colorado",
+            "name": "rockies",
+            "colors": ["333366", "000000", "CACDCD", "FFFFFF"]
+        },
+        {
+        	"full_name": "Detroit Tigers",
+        	"city": "detroit",
+            "name": "tigers",
+            "colors": ["10293F", "FFFFFF", "DE4406"]
+        },
+        {
+        	"full_name": "Houston Astros",
+        	"city": "houston",
+            "name": "astros",
+            "colors": ["072854", "FF7F00", "FFFFFF"]
+        },
+        {
+        	"full_name": "Kansas City Royals",
+        	"city": "kansas-city",
+            "name": "royals",
+            "colors": ["15317E", "FFFFFF", "74B4FA"]
+        },
+        {
+        	"full_name": "Los Angeles Angels",
+        	"city": "los-angeles",
+            "name": "angels",
+            "colors": ["003262", "CE1141", "FFFFFF"]
+        },
+        {
+        	"full_name": "Los Angeles Dodgers",
+        	"city": "los-angeles",
+            "name": "dodgers",
+            "colors": ["005596", "FFFFFF"]
+        },
+        {
+        	"full_name": "Miami Marlins",
+        	"city": "miami",
+            "name": "marlins",
+            "colors": ["000000", "F46634", "FCDE04", "A4AAAC", "0482CC", "FFFFFF"]
+        },
+        {
+        	"full_name": "Milwaukee Brewers",
+        	"city": "milwaukee",
+            "name": "brewers",
+            "colors": ["012143", "C4953B", "FFFFFF"]
+        },
+        {
+        	"full_name": "Minnesota Twins",
+        	"city": "minnesota",
+            "name": "twins",
+            "colors": ["042462", "D31145", "CFAB7A", "FFFFFF"]
+        },
+        {
+        	"full_name": "New York Mets",
+        	"city": "new-york",
+            "name": "mets",
+            "colors": ["004685", "F7742C", "FFFFFF"]
+        },
+        {
+        	"full_name": "New York Yankees",
+        	"city": "new-york",
+            "name": "yankees",
+            "colors": ["1C2841", "FFFFFF", "808080"]
+        },
+        {
+        	"full_name": "Oakland Athletics",
+        	"city": "oakland",
+            "name": "athletics",
+            "colors": ["00483A", "FFBE00", "FFFFFF"]
+        },
+        {
+        	"full_name": "Philadelphia Phillies",
+        	"city": "philadelphia",
+            "name": "phillies",
+            "colors": ["CA1F2C", "FFFFFF", "226AA9"]
+        },
+        {
+        	"full_name": "Pittsburgh Pirates",
+        	"city": "pittsburgh",
+            "name": "pirates",
+            "colors": ["000000", "FFB40B", "FFFFFF"]
+        },
+        {
+        	"full_name": "San Diego Padres",
+        	"city": "san-diego",
+            "name": "padres",
+            "colors": ["002D62", "FFFFFF", "FEC325", "7F411C", "A0AAB2"]
+        },
+        {
+        	"full_name": "San Francisco Giants",
+        	"city": "san-francisco",
+            "name": "giants",
+            "colors": ["000000", "FB5B1F", "FFFDD0"]
+        },
+        {
+        	"full_name": "Seattle Mariners",
+        	"city": "seattle",
+            "name": "mariners",
+            "colors": ["003166", "1C8B85", "C0C0C0", "FFFFFF"]
+        },
+        {
+        	"full_name": "St. Louis Cardinals",
+        	"city": "st-louis",
+            "name": "cardinals",
+            "colors": ["C41E3A", "0A2252", "FFFFFF"]
+        },
+        {
+        	"full_name": "Tampa Bay Rays",
+        	"city": "tampa-bay",
+            "name": "rays",
+            "colors": ["00285D", "79BDEE", "FFFFFF", "FFD700"]
+        },
+        {
+        	"full_name": "Texas Rangers",
+        	"city": "texas",
+            "name": "rangers",
+            "colors": ["BD1021", "FFFFFF", "003279"]
+        },
+        {
+        	"full_name": "Toronto Blue Jays",
+        	"city": "toronto",
+            "name": "blue-jays",
+            "colors": ["003DA5", "041E42", "FFFFFF", "DA291C"]
+        },
+        {
+        	"full_name": "Washinton Nationals",
+        	"city": "washington",
+            "name": "nationals",
+            "colors": ["BA122B", "14225A", "FFFFFF"]
+        }
+    ]
+}

@@ -4,31 +4,35 @@
   "description": "A simple sass library for including any of the 30 Major League Baseball team's colors into your project",
   "main": "index.js",
   "scripts": {
-    "test": "console.log('installed mlb-sass')"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stbly1/mlb-sass.git"
   },
   "keywords": [
-    "Major",
-    "League",
-    "Baseball",
     "MLB",
-    "colors",
-    "teams",
-    "css",
-    "scss",
-    "sass",
     "team",
     "colors",
     "sass",
+    "scss",
+    "css",
+    "baseball",
+    "sports",
+    "sass",
     "library"
   ],
-  "author": "Conor Britain <conorbritain@gmail.com>",
+  "author": "Conor Britain",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/stbly1/mlb-sass/issues"
   },
-  "homepage": "https://github.com/stbly1/mlb-sass#readme"
+  "homepage": "https://github.com/stbly1/mlb-sass#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-assemble": "^0.4.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.0"
+  },
+  "dependencies": {}
 }
