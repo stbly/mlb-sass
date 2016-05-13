@@ -3,9 +3,9 @@ var childProcess = require('child_process');
 module.exports = function(grunt) {
 
 	config = {
-		source : 'project/source/',
-		static : 'project/static/',
-		templates: 'project/source/templates/'
+		source : 'source/',
+		static : 'example/',
+		templates: 'source/templates/'
 	};
 	// Project configuration.
 	grunt.initConfig({
